@@ -5,7 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 supb sup
 node_modules/
-
+vsrap
 .vscode/
 .idea/
 #fff
