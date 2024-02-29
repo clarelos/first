@@ -10,5 +10,5 @@ vsrap
 .idea/
 #fff
 *.tgz
-
+ama badbitch
 dist
