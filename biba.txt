@@ -12,3 +12,4 @@ vsrap
 *.tgz
 ama badbitch
 dist
+artist legit srep
