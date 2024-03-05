@@ -1,1 +1,2 @@
 gib it to file slot.py
+add fupker
